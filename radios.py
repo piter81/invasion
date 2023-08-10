@@ -1,4 +1,6 @@
-#solo probando git, dspues se puede borrar esta linea
+
+#probando toquetear un rato, despues borrar
+#>>>>>>> main #deje lo de main, tmb se puede borrar
 import speech_recognition as sr
 
 # Crear un objeto recognizer
