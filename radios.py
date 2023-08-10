@@ -1,3 +1,4 @@
+#solo probando git, dspues se puede borrar esta linea
 import speech_recognition as sr
 
 # Crear un objeto recognizer
